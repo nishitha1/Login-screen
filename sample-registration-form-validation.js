@@ -16,9 +16,6 @@ if(allnumeric(uzip))
 {  
 if(ValidateEmail(uemail))  
 {  
-if(validsex(umsex,ufsex))  
-{  
-}  
 }   
 }  
 }   
